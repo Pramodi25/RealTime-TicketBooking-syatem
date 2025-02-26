@@ -1,4 +1,3 @@
-Real-Time Ticketing System
 The Real-Time Ticketing System is an all-in-one solution for handling ticket distribution and 
 tracking in real-time. It comes packed with features that make managing tickets easier than ever.
 • A front-end dashboard made with React to show data and let users interact with it..
